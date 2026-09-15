@@ -2,84 +2,88 @@
 
 ### Ingeniero Civil Industrial | Gestión Comercial | Desarrollo de Software | Datos
 
-Soy **Ingeniero Civil Industrial** y **Magíster en Dirección Comercial y Marketing**, con más de 10 años de experiencia en **retail financiero, gestión comercial, liderazgo de equipos y desarrollo de personas**.
+Soy Ingeniero Civil Industrial y Magíster en Dirección Comercial y Marketing, con más de 10 años de experiencia en retail financiero, gestión comercial, liderazgo de equipos y desarrollo de personas.
 
-Actualmente estoy realizando una **transición profesional hacia el área de Tecnología**, fortaleciendo mis conocimientos en desarrollo de software, análisis de datos y transformación digital.
+Actualmente estoy construyendo una nueva etapa profesional orientada al desarrollo de software y la tecnología, complementando mi experiencia en negocios con formación en programación, bases de datos, análisis de datos y transformación digital.
 
-Mi objetivo es combinar mi experiencia en negocios con nuevas competencias tecnológicas para **crear soluciones que respondan a problemas reales de las organizaciones**.
+Mi objetivo es conectar ambos mundos:
+
+> **Negocio + Tecnología + Datos + Personas**
+
+Creo que una buena solución tecnológica comienza por comprender correctamente el problema que se necesita resolver.
 
 ---
 
 ## 🚀 Sobre mí
 
-Durante mi trayectoria profesional he trabajado principalmente en entornos comerciales y de retail, liderando equipos, gestionando indicadores y buscando mejoras en procesos y resultados.
+Durante mi trayectoria profesional he trabajado principalmente en entornos comerciales y de retail, liderando equipos, gestionando indicadores, optimizando procesos y buscando mejoras en la experiencia de clientes y resultados del negocio.
 
 Mi experiencia profesional se ha construido alrededor de tres pilares:
 
-* 👥 **Personas y liderazgo**
-* 📊 **Gestión de indicadores y resultados**
-* 🛍️ **Experiencia de clientes y negocio**
+* 👥 Liderazgo y desarrollo de personas.
+* 📊 Gestión de indicadores, procesos y resultados.
+* 🛍️ Experiencia cliente y comprensión del negocio.
 
-Mi acercamiento a la tecnología nació desde una perspectiva de negocio: como emprendedor y profesional del retail, descubrí el potencial que tienen los datos, el software y las herramientas digitales para mejorar la operación y la toma de decisiones.
+Mi acercamiento a la tecnología nació desde una perspectiva de negocio. Como profesional y emprendedor, descubrí el potencial que tienen los datos, el software y las herramientas digitales para mejorar la operación, la toma de decisiones y la experiencia de los usuarios.
 
 Esto me llevó a comenzar una formación progresiva en:
 
-* 💻 Desarrollo Web
-* ☕ Desarrollo Full Stack Java
-* 🐍 Python
-* 🗄️ SQL y bases de datos
-* 📊 Análisis de datos y Power BI
-* 🛒 Comercio electrónico
-* 🌐 Transformación digital
-
-Actualmente continúo desarrollando proyectos propios y académicos para convertir estos conocimientos en experiencia práctica.
+* 💻 Desarrollo de Software.
+* ☕ Desarrollo Full Stack Java.
+* 🐍 Python.
+* 🗄️ SQL y bases de datos.
+* 📊 Análisis de datos y Power BI.
+* 🛒 Comercio electrónico.
+* 🌐 Transformación digital.
 
 ---
 
-## 🧭 Mi transición hacia TI
+# 🧭 Mi transición hacia TI
 
 No estoy comenzando mi carrera profesional desde cero.
 
-Estoy **sumando tecnología a una trayectoria profesional ya consolidada en negocios**.
+Estoy incorporando tecnología a una trayectoria profesional consolidada en negocios, gestión y liderazgo.
 
 Mi objetivo es desarrollar un perfil híbrido que combine:
 
 > **Negocio + Tecnología + Datos + Gestión**
 
-Esta combinación me permite comprender tanto el problema de negocio como el desafío tecnológico detrás de una solución.
+Esta combinación me permite comprender tanto las necesidades de una organización como las herramientas tecnológicas que pueden contribuir a resolverlas.
 
-Actualmente me encuentro profundizando especialmente en **Java y desarrollo Full Stack**, mientras continúo fortaleciendo Python, SQL, desarrollo web y análisis de datos.
+Actualmente me encuentro profundizando especialmente en Java, Spring Boot y desarrollo Full Stack, mientras continúo fortaleciendo mis conocimientos en Python, SQL, desarrollo web y análisis de datos.
 
 ---
 
-## 💻 Tecnologías y herramientas
+# 💻 Tecnologías y herramientas
 
-### Desarrollo
+### Lenguajes
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
 
-### Datos
+### Backend y desarrollo
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge\&logo=apachemaven\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+
+### Bases de datos y análisis
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge\&logo=googlecolab\&logoColor=white)
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge\&logo=vuedotjs\&logoColor=4FC08D)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge\&logo=jquery\&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge\&logo=mariadb\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
 
 ### Herramientas
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge\&logo=wordpress\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge\&logo=intellijidea\&logoColor=white)
 
 ---
 
@@ -87,25 +91,64 @@ Actualmente me encuentro profundizando especialmente en **Java y desarrollo Full
 
 Mis repositorios representan mi proceso de aprendizaje y evolución hacia el desarrollo de software.
 
+Actualmente, mis proyectos más recientes están orientados principalmente al ecosistema Java y Spring Boot.
+
+---
+
+## 📚 Sistema de Biblioteca — Java / Spring Boot
+
+Proyecto desarrollado durante mi formación Full Stack Java, orientado a la creación de un sistema de gestión de biblioteca.
+
+La aplicación permite trabajar con conceptos fundamentales del desarrollo backend y la organización de aplicaciones empresariales.
+
+### Tecnologías utilizadas
+
+* Java.
+* Spring Boot.
+* Spring Web.
+* Spring Data JPA.
+* Maven.
+* MariaDB / Base de datos relacional.
+
+### Conceptos trabajados
+
+* Arquitectura por capas.
+* Modelos y entidades.
+* Persistencia de datos.
+* Operaciones CRUD.
+* Gestión de información.
+* Servicios backend.
+* Conexión con bases de datos.
+* Desarrollo de aplicaciones utilizando el ecosistema Spring.
+
+Este proyecto representa uno de mis avances más recientes en el aprendizaje de desarrollo backend con Java.
+
+🔗 [Ver repositorio del proyecto Biblioteca](#)
+
+> Reemplaza el enlace anterior por la URL real de tu repositorio de Biblioteca.
+
+---
+
 ## ☕ SmartTask — Java / Maven
 
-Aplicación de consola desarrollada en Java para la gestión de tareas.
+Aplicación desarrollada en Java para la gestión de tareas, enfocada en la aplicación de conceptos fundamentales de Programación Orientada a Objetos.
 
-El proyecto incorpora conceptos fundamentales de programación orientada a objetos:
+### Conceptos trabajados
 
-* Clases y objetos
-* Herencia
-* Interfaces
-* Encapsulamiento
-* Gestión de colecciones
-* JUnit 5
-* Maven
-* Manejo de excepciones
-* Separación de responsabilidades
+* Programación Orientada a Objetos.
+* Clases y objetos.
+* Herencia y encapsulamiento.
+* Interfaces.
+* Gestión de colecciones.
+* Manejo de excepciones.
+* Separación de responsabilidades.
+* Pruebas unitarias con JUnit 5.
+* Gestión de dependencias con Maven.
+* Cobertura de código mediante JaCoCo.
 
 El proyecto utiliza una jerarquía de clases basada en `Tarea`, `TareaNormal` y `TareaUrgente`, además de una interfaz para definir las operaciones de gestión.
 
-**Repositorio:** [pro-m4-smarttask](./pro-m4-smarttask)
+🔗 [Ver repositorio pro-m4-smarttask](https://github.com/galagoszu/pro-m4-smarttask)
 
 ---
 
@@ -113,69 +156,83 @@ El proyecto utiliza una jerarquía de clases basada en `Tarea`, `TareaNormal` y 
 
 Serie de proyectos orientados al desarrollo de una aplicación de billetera digital.
 
-Durante estos proyectos trabajé progresivamente conceptos relacionados con:
+Durante este proceso trabajé progresivamente conceptos relacionados con desarrollo web frontend.
 
-* HTML
-* CSS
-* JavaScript
-* jQuery
-* Manipulación del DOM
-* Eventos
-* Formularios
-* Interacción con el usuario
-* Lógica de aplicaciones web
+### Conceptos trabajados
 
-**Proyectos:**
+* HTML.
+* CSS.
+* JavaScript.
+* jQuery.
+* Manipulación del DOM.
+* Eventos.
+* Formularios.
+* Lógica de aplicaciones web.
+* Interacción con usuarios.
 
-* [wallet_javascript_m2s5](./wallet_javascript_m2s5)
-* [wallet_jquery_m2s6](./wallet_jquery_m2s6)
-* [m2s7_Alke_Wallet](./m2s7_Alke_Wallet)
+### Repositorios
+
+* [wallet_javascript_m2s5](https://github.com/galagoszu/wallet_javascript_m2s5)
+* [wallet_jquery_m2s6](https://github.com/galagoszu/wallet_jquery_m2s6)
+* [m2s7_Alke_Wallet](https://github.com/galagoszu/m2s7_Alke_Wallet)
 
 ---
 
 ## 🌐 Desarrollo Frontend
 
-Dentro de mi proceso de formación he desarrollado diferentes proyectos enfocados en HTML, CSS, JavaScript y diseño de interfaces.
+Como parte de mi formación inicial en desarrollo web, he trabajado en diferentes proyectos utilizando HTML, CSS y JavaScript.
 
-### Portafolio Web
+### Proyectos destacados
+
+#### Portafolio Web
 
 Proyecto desarrollado durante mi formación en Frontend.
 
-[portafolio_m2_s3_BJ](./portafolio_m2_s3_BJ)
+🔗 [Ver portafolio_m2_s3_BJ](https://github.com/galagoszu/portafolio_m2_s3_BJ)
 
-### Marvel Movies
+#### Marvel Movies
 
 Proyecto de desarrollo web utilizando HTML y CSS.
 
-[Peliculas-marvel-HTML-BJ](./Peliculas-marvel-HTML-BJ)
+🔗 [Ver Peliculas-marvel-HTML-BJ](https://github.com/galagoszu/Peliculas-marvel-HTML-BJ)
+
+#### Juego Secreto
+
+Implementación de un juego interactivo utilizando JavaScript.
+
+🔗 [Ver Juego Secreto](https://github.com/galagoszu/juego-secreto)
+
+#### Amigo Secreto
+
+Aplicación desarrollada durante formación en programación web.
+
+🔗 [Ver Amigo-Secreto-Alura-Latam](https://github.com/galagoszu/Amigo-Secreto-Alura-Latam)
 
 ---
 
-## 🤖 Chatbot
+## 🤖 Chatbot Experimental
 
-Proyecto experimental de chatbot desarrollado como aproximación a soluciones digitales orientadas a atención e interacción con usuarios.
+Proyecto experimental orientado al desarrollo de una solución conversacional para atención e interacción con usuarios.
 
-[chatbot_pro](./chatbot_pro)
+🔗 [Ver chatbot_pro](https://github.com/galagoszu/chatbot_pro)
 
 ---
 
-## 🐍 Python y análisis de datos
+## 🐍 Python y Ciencia de Datos
 
-Mi formación también incluye Python, SQL y fundamentos de ciencia de datos.
+Durante mi formación en Python y fundamentos de Ciencia de Datos he trabajado con herramientas orientadas al análisis y manipulación de información.
 
-Uno de mis proyectos corresponde a ejercicios de consolidación de conocimientos desarrollados durante mi formación en análisis de datos.
+### Conceptos trabajados
 
-[consolidacion_m4](./consolidacion_m4)
+* Python.
+* Pandas.
+* Manipulación de datos.
+* Análisis exploratorio.
+* Visualización de datos.
+* SQL.
+* Fundamentos de Ciencia de Datos.
 
-En esta etapa he trabajado con conceptos relacionados con:
-
-* Python
-* Pandas
-* análisis exploratorio
-* manipulación de datos
-* visualización
-* SQL
-* fundamentos de ciencia de datos
+🔗 [Ver consolidacion_m4](https://github.com/galagoszu/consolidacion_m4)
 
 ---
 
@@ -183,94 +240,111 @@ En esta etapa he trabajado con conceptos relacionados con:
 
 ### 🎓 Ingeniería Civil Industrial
 
-Formación universitaria orientada a gestión, procesos, análisis y resolución de problemas.
+Formación universitaria orientada a gestión, procesos, análisis, optimización y resolución de problemas.
 
 ### 🎓 Magíster en Dirección Comercial y Marketing
 
-Especialización en gestión comercial, estrategia y marketing.
+Especialización en estrategia comercial, gestión de clientes y marketing.
 
 ### 💻 Full Stack Java Trainee
 
-Actualmente en formación como desarrollador Full Stack Java a través de Talento Digital.
+Actualmente en formación en desarrollo Full Stack Java a través de Talento Digital.
 
 ### 🐍 Full Stack Python Trainee
 
-Formación completada en desarrollo con Python.
+Formación en desarrollo de aplicaciones utilizando Python.
 
 ### 📊 Fundamentos de Ciencia de Datos
 
-Formación completada en análisis y fundamentos de ciencia de datos.
+Formación en análisis de datos, Python y fundamentos de Ciencia de Datos.
 
-### 🌐 Frontend
+### 🌐 Desarrollo Frontend
 
-Formación en desarrollo Frontend a través de programas de especialización y formación tecnológica.
+Formación en tecnologías web, HTML, CSS y JavaScript.
 
 ---
 
 # 🏢 Experiencia profesional
 
-Antes de comenzar mi transición hacia TI desarrollé una trayectoria de más de una década principalmente en el sector **retail financiero**.
+Antes de comenzar mi transición hacia TI desarrollé una trayectoria de más de una década principalmente en el sector retail financiero.
 
-### CMR Falabella
+## CMR Falabella
 
 Desempeñé funciones de:
 
-* Supervisor Comercial
-* Supervisor de Crédito
-* Jefe de Sucursal
+* Supervisor Comercial.
+* Supervisor de Crédito.
+* Jefe de Sucursal.
 
-Trabajando en liderazgo de equipos, gestión de KPIs, procesos comerciales, capacitación y cumplimiento de objetivos.
+Mi experiencia estuvo enfocada en:
 
-Entre los resultados obtenidos destaca la reducción de observaciones de auditoría en más de un **95 %** mediante mejoras de procesos y control interno, además de la capacitación y desarrollo de equipos de trabajo.
+* Liderazgo y desarrollo de equipos.
+* Gestión de indicadores comerciales.
+* Procesos operacionales.
+* Capacitación.
+* Cumplimiento de objetivos.
+* Experiencia cliente.
+* Mejora continua.
 
-### Emprendimiento
+Uno de los resultados destacados de mi trayectoria fue la reducción de observaciones de auditoría en más de un 95 %, mediante mejoras de procesos, control interno y gestión de equipos de trabajo.
 
-Como emprendedor he participado en la creación y desarrollo de proyectos vinculados al comercio, cultura pop y emprendimiento local, incluyendo **TLK Talca / Raime Fest**.
+---
 
-Esta experiencia me ha permitido conocer directamente problemas relacionados con:
+# 🚀 Emprendimiento y proyectos personales
 
-* Inventario
-* Ventas
-* Marketing
-* Comercio electrónico
-* Gestión de clientes
-* Procesos operacionales
-* Digitalización de negocios
+Como emprendedor he participado en el desarrollo de iniciativas vinculadas al comercio, cultura pop y emprendimiento local.
+
+## TLK Talca / TLK Hobby
+
+Proyecto orientado al comercio de productos relacionados con hobbies, cultura geek, juegos, regalos y comercio electrónico.
+
+Esta experiencia me ha permitido trabajar directamente con desafíos relacionados con:
+
+* Inventario.
+* Ventas.
+* Marketing.
+* Comercio electrónico.
+* Gestión de clientes.
+* Procesos operacionales.
+* Digitalización de negocios.
 
 ---
 
 # 🎯 Hacia dónde voy
 
-Actualmente estoy construyendo mi perfil tecnológico de manera progresiva.
+Estoy construyendo progresivamente un perfil profesional que combine experiencia de negocio con competencias tecnológicas.
 
-Mi objetivo no es solamente aprender a programar, sino comprender **cómo la tecnología puede resolver problemas reales de negocio**.
+Me interesa especialmente seguir desarrollándome en áreas como:
 
-Estoy especialmente interesado en seguir desarrollándome en áreas como:
+* 💻 Desarrollo Backend.
+* ☕ Java y Spring Boot.
+* 🌐 Desarrollo Full Stack.
+* 🔗 APIs REST.
+* 🗄️ Bases de datos y SQL.
+* 🐍 Python.
+* 📊 Datos y Business Intelligence.
+* 🔄 Transformación digital.
+* 🛒 E-Commerce.
 
-* 💻 Desarrollo Backend y Full Stack
-* ☕ Java
-* 🌐 Desarrollo Web
-* 🗄️ Bases de datos y SQL
-* 🐍 Python
-* 📊 Datos y Business Intelligence
-* 🔄 Transformación digital
-* 🛒 E-Commerce
-* 🔐 Buenas prácticas de desarrollo y seguridad
+Mi objetivo no es solamente aprender a programar.
+
+Es comprender cómo la tecnología puede transformar procesos, mejorar experiencias y resolver problemas reales de las organizaciones.
 
 ---
 
 # 📈 Actualmente aprendiendo
 
-```text
-Java                    █████████░  En desarrollo
-Spring / Backend        ██████░░░░  En aprendizaje
-SQL / Bases de datos    ████████░░  En desarrollo
-Python                  ████████░░  En desarrollo
-JavaScript              ████████░░  En desarrollo
-React / Vue             ██████░░░░  En aprendizaje
-Power BI                ██████░░░░  En desarrollo
-Git / GitHub             ████████░░  En desarrollo
-```
+| Tecnología           | Estado         |
+| -------------------- | -------------- |
+| Java                 | En desarrollo  |
+| Spring Boot          | En aprendizaje |
+| SQL / Bases de datos | En desarrollo  |
+| Python               | En desarrollo  |
+| JavaScript           | En desarrollo  |
+| HTML / CSS           | En desarrollo  |
+| Git / GitHub         | En desarrollo  |
+| Power BI             | En desarrollo  |
+| APIs REST            | En aprendizaje |
 
 > Este perfil representa un proceso de aprendizaje continuo. Algunos proyectos corresponden a ejercicios académicos y otros a iniciativas personales orientadas a resolver problemas concretos.
 
@@ -280,29 +354,33 @@ Git / GitHub             ████████░░  En desarrollo
 
 Creo que cambiar de área profesional no significa comenzar nuevamente desde cero.
 
-Significa **construir sobre lo que ya sabemos y agregar nuevas capacidades**.
+Significa construir sobre lo que ya sabemos y agregar nuevas capacidades.
 
-Mi experiencia en retail me enseñó a trabajar con personas, clientes, indicadores, procesos y resultados.
+Mi experiencia profesional me enseñó a trabajar con personas, clientes, indicadores, procesos y resultados.
 
 La tecnología me está entregando nuevas herramientas para transformar esa experiencia en soluciones.
 
-**Mi objetivo es unir ambos mundos.**
+Mi objetivo es unir ambos mundos.
 
 ---
 
 # 📫 Contacto
 
-**Gabriel Lagos**
+### Gabriel Lagos
+
 Ingeniero Civil Industrial | Magíster en Dirección Comercial y Marketing
+
 Desarrollo de Software | Datos | Transformación Digital
 
-📧 **[galagos2208@gmail.com](mailto:galagos2208@gmail.com)**
+📧 [galagos2208@gmail.com](mailto:galagos2208@gmail.com)
 
-🐙 **GitHub:** [galagoszu](.)
+🐙 [GitHub](https://github.com/galagoszu)
 
 📍 Talca, Chile
 
 ---
 
-### 💡 "La tecnología es una herramienta; entender el problema que queremos resolver es lo que permite utilizarla correctamente."
+### 💡
+
+> "La tecnología es una herramienta; entender el problema que queremos resolver es lo que permite utilizarla correctamente."
 
